@@ -35,10 +35,6 @@ const Section = styled.section`
         color: #fff;
         font-weight: bold;
         letter-spacing: 1.2px;
-        transition: all .9s ease-in-out ;
-    }
-    .container-info li:hover {
-        transform: scale(1.2);
     }
     .container-info li i{
         margin: 0 10px;
@@ -53,7 +49,6 @@ const Section = styled.section`
         cursor: pointer;
         color: #fff;
     }
-    
 `;
 
 export default Section;
