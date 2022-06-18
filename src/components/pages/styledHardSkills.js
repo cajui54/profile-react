@@ -80,10 +80,10 @@ const Section = styled.section`
             padding-top: 20px;
         }
         .subtitle-hard-skills {
-            margin-left: 50px;
             font-size: 35px;
-            
+            text-align: center;
         }
+
         .skills {
             justify-content: center;
             margin-left: 20px;
@@ -96,7 +96,17 @@ const Section = styled.section`
     @media only screen and (min-width: 1000px){
         .container-subtitle {
             width: 60%;
-            margin-bottom: 50px ;
+            margin: 50px auto;
+        }
+        .subtitle {
+            width: 100%;
+            font-size: 40px;
+        }
+        .subtitleH3 {
+            font-size: 155px;
+        }
+        article {
+            width: 900px;
         }
         article p {
             width: 60%;
@@ -104,13 +114,13 @@ const Section = styled.section`
         }
 
         .subtitle-hard-skills {
-            width: 50%;
-            margin-left: 600px;
-            margin-bottom: 100px;
+            width: 100%;
+            text-align: center;
+            margin: 100px auto;
             font-size: 45px;
         }
         .skills {
-            width: 30%;
+            width: 50%;
             margin: 0 auto;
         }
         .card {
