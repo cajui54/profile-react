@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Nav = styled.nav`
     position: absolute;
-    margin-top: 80px;
+    margin-top: 450px;
     width: 100%;
     height: 780px;
     padding: 0;
