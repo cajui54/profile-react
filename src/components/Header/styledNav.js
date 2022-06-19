@@ -2,13 +2,13 @@ import styled from "styled-components";
 
 const Nav = styled.nav`
     position: absolute;
-    margin-top: 194%;
+    margin-top: 852px;
     width: 100%;
-    height: 900px;
+    height: 780px;
     padding: 0;
     transform: translateX(550px);
     opacity: 0;
-    background-color: rgba(0,0,0,.8);
+    background-color: rgba(0,0,0,1);
     transition: all .8s ease-in-out .5s ;
     
     letter-spacing: 1.1px;
