@@ -22,11 +22,11 @@ const NavMenu = ({closeMenu}) => {
         </li>
 
         <li>
-          <Link to='project' onClick={handleCloseMenu}>Projects</Link>
+          <Link to='/project' onClick={handleCloseMenu}>Projects</Link>
         </li>
 
         <li>
-          <Link to='contact' onClick={handleCloseMenu}>Contact Me</Link>
+          <Link to='/contact' onClick={handleCloseMenu}>Contact Me</Link>
         </li>
       </ul>
     </Nav>
