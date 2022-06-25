@@ -18,7 +18,7 @@ const Contacts = () => {
             </li>
             <li>
             <i className="fa-solid fa-envelope"></i>
-                cajui54@gmail.com
+                cajuishop@gmail.com
             </li>
             <li>
                 <a href="https://www.linkedin.com/in/jacksoncajui/" target="_blank">
