@@ -2,16 +2,19 @@ import styled from "styled-components";
 
 const Nav = styled.nav`
     position: absolute;
-    margin-top: 410px;
+    margin-top: 861px;
     width: 100%;
-    height: 750px;
+    height: 795px;
     padding: 0;
     transform: translateX(550px);
     opacity: 0;
-    background-color: rgba(0,0,0,1);
+    background-color: rgba(28,28,28, 1);
     transition: all .8s ease-in-out .5s ;
     
     letter-spacing: 1.1px;
+
+    
+
     ul {
         margin: 0;
         padding: 0;
@@ -41,7 +44,10 @@ const Nav = styled.nav`
     ul li:hover{
         background-color: rgba(54,54,54);
     }
-
+    @media screen and (min-height: 914px){
+        height: 850px;
+        margin-top: 910px;
+    }
     @media screen and (min-width: 662px) {
         transform: translateX(0);
         opacity: 1;
