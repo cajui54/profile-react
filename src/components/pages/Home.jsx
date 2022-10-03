@@ -1,6 +1,6 @@
 import React from 'react'
 import HomeStyled from './styledHome'
-import avatar from '../../assets/images/me01.png'
+import avatar from '../../assets/images/photo.jpeg'
 
 const Home = () => {
   return (
@@ -16,7 +16,7 @@ const Home = () => {
           <h2><span></span>Olá, eu sou</h2>
             <p>Jackson</p>
             <p>Silva</p>
-            <p>Font-End</p>
+            <p>Dev Font-End Jr</p>
           </div>
            
             

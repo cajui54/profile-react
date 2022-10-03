@@ -38,7 +38,8 @@ const HomeStyled = styled.section`
         
     }
     img {
-        width: 300px;
+        width: 400px;
+        height: 100%;
         margin: 0 auto; 
         filter: brightness(.5) ;
     }
