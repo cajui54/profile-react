@@ -18,11 +18,9 @@ const AboutMe = () => {
           </h2>
 
           <p>
-            Sou formado em análise e desenvolvimento de sistemas 
-            e atualmente estudante desenvolvimento web Front-End,
-            e um dos meus principais foco é dominar as tecnologias
-            React.JS | APIs | Routes | Hooks, React Native, TypeScript,
-            Jest, Scrum e demais tecnologias relacionadas front-end e back-end
+          Estou cursando Ciência da Computação e estudando desenvolvimento web com foco no front-end,
+          e um dos meus princípais objetivos é dominar as princípais tecnologias do ecossistema React.JS
+          como Redux, APIs, Routes, Styled-Components, TypeScript, Node.JS, Teste e demais tecnologias!
           </p>
         </article>
       </section>
